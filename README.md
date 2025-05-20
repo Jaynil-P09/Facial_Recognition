@@ -1,2 +1,2 @@
 # Facial_Recognition
-These sciptsare a rudimentary facial recognition software
+These scipt are a rudimentary facial recognition software
