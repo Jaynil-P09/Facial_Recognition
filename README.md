@@ -1,2 +1,2 @@
 # Facial_Recognition
-These scipt are a rudimentary facial recognition software
+These scripts are a rudimentary facial recognition software
